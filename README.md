@@ -52,4 +52,4 @@ PRISM dataset downloads automatically from HuggingFace (`HannahRoseKirk/prism-al
 
 ## Reproducibility
 
-All random seeds are set to 42. Results should match the paper within small floating point differences from different hardware.
+Results should match the paper within small floating point differences from different hardware.

@@ -1,0 +1,12 @@
+# CS329H Final Project: Preference Heterogeneity in RLHF
+# Python 3.11+ recommended
+
+datasets==4.4.1
+pandas==2.3.3
+numpy==2.3.5
+scikit-learn==1.7.2
+scipy==1.16.3
+statsmodels==0.14.5
+sentence-transformers==5.1.2
+matplotlib==3.10.7
+seaborn==0.13.2

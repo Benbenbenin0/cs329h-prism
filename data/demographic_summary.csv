@@ -1,0 +1,14 @@
+category,group,n_users
+age,18-24 years old,277
+age,25-34 years old,425
+age,35-44 years old,222
+age,45-54 years old,188
+age,55-64 years old,179
+age,65+ years old,91
+gender,Female,671
+gender,Male,689
+gender,Non-binary / third gender,20
+gender,Prefer not to say,2
+region,Other,636
+region,UK,320
+region,US,426

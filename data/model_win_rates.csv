@@ -1,0 +1,253 @@
+demo,group,model,wins,apps,rate
+age,35-44 years old,google/flan-t5-xxl,33,468,0.07051282051282051
+age,35-44 years old,command-light,164,321,0.5109034267912772
+age,35-44 years old,tiiuae/falcon-7b-instruct,107,302,0.3543046357615894
+age,35-44 years old,claude-2,177,314,0.5636942675159236
+age,35-44 years old,gpt-3.5-turbo,182,292,0.6232876712328768
+age,35-44 years old,luminous-supreme-control,48,291,0.16494845360824742
+age,35-44 years old,HuggingFaceH4/zephyr-7b-beta,217,301,0.7209302325581395
+age,35-44 years old,command,248,322,0.7701863354037267
+age,35-44 years old,OpenAssistant/oasst-sft-4-pythia-12b-epoch-3.5,110,278,0.39568345323741005
+age,35-44 years old,command-nightly,176,280,0.6285714285714286
+age,35-44 years old,claude-2.1,162,301,0.5382059800664452
+age,35-44 years old,meta-llama/Llama-2-13b-chat-hf,78,156,0.5
+age,35-44 years old,gpt-4-1106-preview,178,284,0.6267605633802817
+age,35-44 years old,gpt-4,215,331,0.649546827794562
+age,35-44 years old,meta-llama/Llama-2-70b-chat-hf,151,257,0.5875486381322957
+age,35-44 years old,models/chat-bison-001,219,302,0.7251655629139073
+age,35-44 years old,timdettmers/guanaco-33b-merged,130,344,0.37790697674418605
+age,35-44 years old,luminous-extended-control,37,376,0.09840425531914894
+age,35-44 years old,mistralai/Mistral-7B-Instruct-v0.1,150,301,0.4983388704318937
+age,35-44 years old,claude-instant-1,207,280,0.7392857142857143
+age,35-44 years old,meta-llama/Llama-2-7b-chat-hf,199,275,0.7236363636363636
+age,45-54 years old,HuggingFaceH4/zephyr-7b-beta,157,222,0.7072072072072072
+age,45-54 years old,command,202,273,0.73992673992674
+age,45-54 years old,timdettmers/guanaco-33b-merged,114,262,0.4351145038167939
+age,45-54 years old,luminous-supreme-control,54,279,0.1935483870967742
+age,45-54 years old,models/chat-bison-001,179,236,0.7584745762711864
+age,45-54 years old,meta-llama/Llama-2-13b-chat-hf,81,134,0.6044776119402985
+age,45-54 years old,tiiuae/falcon-7b-instruct,92,250,0.368
+age,45-54 years old,gpt-3.5-turbo,138,231,0.5974025974025974
+age,45-54 years old,meta-llama/Llama-2-7b-chat-hf,150,213,0.704225352112676
+age,45-54 years old,mistralai/Mistral-7B-Instruct-v0.1,112,239,0.4686192468619247
+age,45-54 years old,gpt-4-1106-preview,150,240,0.625
+age,45-54 years old,command-nightly,153,249,0.6144578313253012
+age,45-54 years old,OpenAssistant/oasst-sft-4-pythia-12b-epoch-3.5,98,241,0.4066390041493776
+age,45-54 years old,gpt-4,146,240,0.6083333333333333
+age,45-54 years old,command-light,145,303,0.47854785478547857
+age,45-54 years old,google/flan-t5-xxl,37,398,0.09296482412060302
+age,45-54 years old,meta-llama/Llama-2-70b-chat-hf,117,174,0.6724137931034483
+age,45-54 years old,claude-instant-1,184,258,0.7131782945736435
+age,45-54 years old,luminous-extended-control,31,225,0.13777777777777778
+age,45-54 years old,claude-2.1,116,238,0.48739495798319327
+age,45-54 years old,claude-2,110,227,0.4845814977973568
+age,18-24 years old,claude-2.1,178,386,0.46113989637305697
+age,18-24 years old,meta-llama/Llama-2-70b-chat-hf,216,348,0.6206896551724138
+age,18-24 years old,HuggingFaceH4/zephyr-7b-beta,246,400,0.615
+age,18-24 years old,timdettmers/guanaco-33b-merged,242,509,0.47544204322200395
+age,18-24 years old,gpt-4-1106-preview,226,343,0.6588921282798834
+age,18-24 years old,gpt-4,238,388,0.6134020618556701
+age,18-24 years old,luminous-extended-control,54,451,0.1197339246119734
+age,18-24 years old,command,311,387,0.8036175710594315
+age,18-24 years old,models/chat-bison-001,241,349,0.6905444126074498
+age,18-24 years old,meta-llama/Llama-2-13b-chat-hf,105,195,0.5384615384615384
+age,18-24 years old,mistralai/Mistral-7B-Instruct-v0.1,219,429,0.5104895104895105
+age,18-24 years old,claude-2,202,362,0.5580110497237569
+age,18-24 years old,meta-llama/Llama-2-7b-chat-hf,270,370,0.7297297297297297
+age,18-24 years old,command-nightly,243,414,0.5869565217391305
+age,18-24 years old,tiiuae/falcon-7b-instruct,145,355,0.4084507042253521
+age,18-24 years old,google/flan-t5-xxl,43,477,0.09014675052410902
+age,18-24 years old,command-light,243,442,0.5497737556561086
+age,18-24 years old,claude-instant-1,259,381,0.6797900262467191
+age,18-24 years old,gpt-3.5-turbo,201,350,0.5742857142857143
+age,18-24 years old,OpenAssistant/oasst-sft-4-pythia-12b-epoch-3.5,139,350,0.39714285714285713
+age,18-24 years old,luminous-supreme-control,49,454,0.10792951541850221
+age,25-34 years old,meta-llama/Llama-2-13b-chat-hf,136,251,0.5418326693227091
+age,25-34 years old,gpt-4-1106-preview,363,545,0.6660550458715596
+age,25-34 years old,meta-llama/Llama-2-70b-chat-hf,325,505,0.6435643564356436
+age,25-34 years old,mistralai/Mistral-7B-Instruct-v0.1,322,550,0.5854545454545454
+age,25-34 years old,timdettmers/guanaco-33b-merged,296,600,0.49333333333333335
+age,25-34 years old,tiiuae/falcon-7b-instruct,237,640,0.3703125
+age,25-34 years old,OpenAssistant/oasst-sft-4-pythia-12b-epoch-3.5,256,559,0.45796064400715564
+age,25-34 years old,command-nightly,357,599,0.5959933222036727
+age,25-34 years old,gpt-4,281,518,0.5424710424710425
+age,25-34 years old,luminous-supreme-control,108,644,0.16770186335403728
+age,25-34 years old,claude-instant-1,415,577,0.7192374350086655
+age,25-34 years old,claude-2.1,318,591,0.5380710659898477
+age,25-34 years old,meta-llama/Llama-2-7b-chat-hf,348,531,0.655367231638418
+age,25-34 years old,HuggingFaceH4/zephyr-7b-beta,405,609,0.6650246305418719
+age,25-34 years old,command-light,317,590,0.5372881355932203
+age,25-34 years old,claude-2,296,606,0.4884488448844885
+age,25-34 years old,luminous-extended-control,74,671,0.11028315946348734
+age,25-34 years old,command,436,610,0.7147540983606557
+age,25-34 years old,models/chat-bison-001,462,687,0.6724890829694323
+age,25-34 years old,gpt-3.5-turbo,366,610,0.6
+age,25-34 years old,google/flan-t5-xxl,60,863,0.06952491309385864
+age,55-64 years old,models/chat-bison-001,168,241,0.6970954356846473
+age,55-64 years old,claude-instant-1,160,229,0.6986899563318777
+age,55-64 years old,mistralai/Mistral-7B-Instruct-v0.1,94,182,0.5164835164835165
+age,55-64 years old,meta-llama/Llama-2-70b-chat-hf,120,175,0.6857142857142857
+age,55-64 years old,meta-llama/Llama-2-7b-chat-hf,151,231,0.6536796536796536
+age,55-64 years old,google/flan-t5-xxl,25,353,0.0708215297450425
+age,55-64 years old,command,182,264,0.6893939393939394
+age,55-64 years old,gpt-4,113,190,0.5947368421052631
+age,55-64 years old,timdettmers/guanaco-33b-merged,144,255,0.5647058823529412
+age,55-64 years old,claude-2.1,90,223,0.40358744394618834
+age,55-64 years old,gpt-3.5-turbo,104,204,0.5098039215686274
+age,55-64 years old,command-nightly,145,221,0.6561085972850679
+age,55-64 years old,luminous-supreme-control,37,258,0.1434108527131783
+age,55-64 years old,HuggingFaceH4/zephyr-7b-beta,139,184,0.7554347826086957
+age,55-64 years old,claude-2,119,205,0.5804878048780487
+age,55-64 years old,tiiuae/falcon-7b-instruct,114,237,0.4810126582278481
+age,55-64 years old,luminous-extended-control,36,273,0.13186813186813187
+age,55-64 years old,gpt-4-1106-preview,158,215,0.7348837209302326
+age,55-64 years old,OpenAssistant/oasst-sft-4-pythia-12b-epoch-3.5,65,201,0.32338308457711445
+age,55-64 years old,command-light,131,243,0.5390946502057613
+age,55-64 years old,meta-llama/Llama-2-13b-chat-hf,67,140,0.4785714285714286
+age,65+ years old,google/flan-t5-xxl,30,183,0.16393442622950818
+age,65+ years old,command-light,39,89,0.43820224719101125
+age,65+ years old,timdettmers/guanaco-33b-merged,71,124,0.5725806451612904
+age,65+ years old,claude-instant-1,96,131,0.732824427480916
+age,65+ years old,command,98,133,0.7368421052631579
+age,65+ years old,claude-2,76,137,0.5547445255474452
+age,65+ years old,tiiuae/falcon-7b-instruct,49,104,0.47115384615384615
+age,65+ years old,gpt-3.5-turbo,57,116,0.49137931034482757
+age,65+ years old,claude-2.1,69,133,0.518796992481203
+age,65+ years old,gpt-4,83,116,0.7155172413793104
+age,65+ years old,meta-llama/Llama-2-7b-chat-hf,88,125,0.704
+age,65+ years old,command-nightly,51,111,0.4594594594594595
+age,65+ years old,meta-llama/Llama-2-70b-chat-hf,88,137,0.6423357664233577
+age,65+ years old,luminous-supreme-control,33,153,0.21568627450980393
+age,65+ years old,mistralai/Mistral-7B-Instruct-v0.1,48,107,0.4485981308411215
+age,65+ years old,models/chat-bison-001,54,103,0.5242718446601942
+age,65+ years old,gpt-4-1106-preview,78,108,0.7222222222222222
+age,65+ years old,OpenAssistant/oasst-sft-4-pythia-12b-epoch-3.5,41,106,0.3867924528301887
+age,65+ years old,HuggingFaceH4/zephyr-7b-beta,83,118,0.7033898305084746
+age,65+ years old,luminous-extended-control,14,150,0.09333333333333334
+age,65+ years old,meta-llama/Llama-2-13b-chat-hf,25,58,0.43103448275862066
+gender,Male,google/flan-t5-xxl,128,1343,0.0953090096798213
+gender,Male,command-light,568,1024,0.5546875
+gender,Male,tiiuae/falcon-7b-instruct,386,974,0.39630390143737165
+gender,Male,claude-2,465,900,0.5166666666666667
+gender,Male,gpt-3.5-turbo,521,913,0.5706462212486308
+gender,Male,luminous-supreme-control,166,1006,0.16500994035785288
+gender,Male,mistralai/Mistral-7B-Instruct-v0.1,483,949,0.5089567966280295
+gender,Male,timdettmers/guanaco-33b-merged,474,1030,0.4601941747572815
+gender,Male,HuggingFaceH4/zephyr-7b-beta,609,930,0.6548387096774193
+gender,Male,command-nightly,563,880,0.6397727272727273
+gender,Male,gpt-4,489,864,0.5659722222222222
+gender,Male,claude-instant-1,668,928,0.7198275862068966
+gender,Male,claude-2.1,463,925,0.5005405405405405
+gender,Male,meta-llama/Llama-2-7b-chat-hf,584,873,0.6689576174112256
+gender,Male,luminous-extended-control,138,1098,0.12568306010928962
+gender,Male,command,720,999,0.7207207207207207
+gender,Male,meta-llama/Llama-2-13b-chat-hf,255,493,0.5172413793103449
+gender,Male,OpenAssistant/oasst-sft-4-pythia-12b-epoch-3.5,386,864,0.44675925925925924
+gender,Male,gpt-4-1106-preview,563,853,0.6600234466588512
+gender,Male,models/chat-bison-001,709,1020,0.6950980392156862
+gender,Male,meta-llama/Llama-2-70b-chat-hf,502,814,0.6167076167076168
+gender,Female,HuggingFaceH4/zephyr-7b-beta,623,885,0.703954802259887
+gender,Female,command,728,948,0.7679324894514767
+gender,Female,timdettmers/guanaco-33b-merged,500,1025,0.4878048780487805
+gender,Female,luminous-supreme-control,156,1026,0.15204678362573099
+gender,Female,claude-2.1,450,910,0.4945054945054945
+gender,Female,meta-llama/Llama-2-70b-chat-hf,501,758,0.6609498680738787
+gender,Female,meta-llama/Llama-2-13b-chat-hf,233,431,0.5406032482598608
+gender,Female,gpt-4-1106-preview,567,853,0.6647127784290738
+gender,Female,gpt-4,562,890,0.6314606741573033
+gender,Female,luminous-extended-control,103,1012,0.10177865612648221
+gender,Female,models/chat-bison-001,603,880,0.6852272727272727
+gender,Female,tiiuae/falcon-7b-instruct,350,894,0.39149888143176736
+gender,Female,OpenAssistant/oasst-sft-4-pythia-12b-epoch-3.5,310,836,0.3708133971291866
+gender,Female,gpt-3.5-turbo,506,857,0.5904317386231038
+gender,Female,mistralai/Mistral-7B-Instruct-v0.1,447,828,0.5398550724637681
+gender,Female,google/flan-t5-xxl,97,1351,0.07179866765358993
+gender,Female,claude-instant-1,630,899,0.7007786429365962
+gender,Female,command-light,459,943,0.4867444326617179
+gender,Female,claude-2,503,918,0.5479302832244008
+gender,Female,meta-llama/Llama-2-7b-chat-hf,597,835,0.7149700598802395
+gender,Female,command-nightly,545,961,0.5671175858480749
+gender,Non-binary / third gender,OpenAssistant/oasst-sft-4-pythia-12b-epoch-3.5,13,35,0.37142857142857144
+gender,Non-binary / third gender,tiiuae/falcon-7b-instruct,7,19,0.3684210526315789
+gender,Non-binary / third gender,gpt-4,25,29,0.8620689655172413
+gender,Non-binary / third gender,mistralai/Mistral-7B-Instruct-v0.1,15,31,0.4838709677419355
+gender,Non-binary / third gender,command-nightly,16,32,0.5
+gender,Non-binary / third gender,claude-2,12,30,0.4
+gender,Non-binary / third gender,HuggingFaceH4/zephyr-7b-beta,13,16,0.8125
+gender,Non-binary / third gender,meta-llama/Llama-2-70b-chat-hf,14,22,0.6363636363636364
+gender,Non-binary / third gender,command,28,39,0.717948717948718
+gender,Non-binary / third gender,gpt-4-1106-preview,21,25,0.84
+gender,Non-binary / third gender,luminous-extended-control,5,33,0.15151515151515152
+gender,Non-binary / third gender,claude-2.1,20,36,0.5555555555555556
+gender,Non-binary / third gender,command-light,12,21,0.5714285714285714
+gender,Non-binary / third gender,luminous-supreme-control,7,47,0.14893617021276595
+gender,Non-binary / third gender,gpt-3.5-turbo,21,33,0.6363636363636364
+gender,Non-binary / third gender,meta-llama/Llama-2-7b-chat-hf,23,35,0.6571428571428571
+gender,Non-binary / third gender,models/chat-bison-001,11,18,0.6111111111111112
+gender,Non-binary / third gender,google/flan-t5-xxl,3,48,0.0625
+gender,Non-binary / third gender,timdettmers/guanaco-33b-merged,21,37,0.5675675675675675
+gender,Non-binary / third gender,meta-llama/Llama-2-13b-chat-hf,4,10,0.4
+gender,Non-binary / third gender,claude-instant-1,20,26,0.7692307692307693
+region,Other,google/flan-t5-xxl,101,1257,0.08035003977724742
+region,Other,command-light,483,943,0.5121951219512195
+region,Other,tiiuae/falcon-7b-instruct,354,923,0.38353196099674974
+region,Other,claude-2,478,875,0.5462857142857143
+region,Other,gpt-3.5-turbo,486,822,0.5912408759124088
+region,Other,luminous-supreme-control,156,1014,0.15384615384615385
+region,Other,HuggingFaceH4/zephyr-7b-beta,563,872,0.6456422018348624
+region,Other,command,696,915,0.760655737704918
+region,Other,timdettmers/guanaco-33b-merged,456,988,0.46153846153846156
+region,Other,claude-2.1,485,936,0.5181623931623932
+region,Other,meta-llama/Llama-2-70b-chat-hf,476,762,0.6246719160104987
+region,Other,meta-llama/Llama-2-13b-chat-hf,223,423,0.5271867612293144
+region,Other,gpt-4-1106-preview,491,759,0.6469038208168643
+region,Other,gpt-4,544,876,0.6210045662100456
+region,Other,luminous-extended-control,99,943,0.10498409331919406
+region,Other,mistralai/Mistral-7B-Instruct-v0.1,467,878,0.5318906605922551
+region,Other,models/chat-bison-001,607,863,0.7033603707995365
+region,Other,OpenAssistant/oasst-sft-4-pythia-12b-epoch-3.5,368,842,0.43705463182897863
+region,Other,command-nightly,534,887,0.6020293122886133
+region,Other,claude-instant-1,629,901,0.6981132075471698
+region,Other,meta-llama/Llama-2-7b-chat-hf,525,763,0.6880733944954128
+region,US,command,448,630,0.7111111111111111
+region,US,HuggingFaceH4/zephyr-7b-beta,365,516,0.7073643410852714
+region,US,command-light,335,606,0.5528052805280528
+region,US,tiiuae/falcon-7b-instruct,233,539,0.4322820037105751
+region,US,claude-2.1,269,558,0.482078853046595
+region,US,google/flan-t5-xxl,71,848,0.08372641509433962
+region,US,command-nightly,334,555,0.6018018018018018
+region,US,luminous-extended-control,85,657,0.1293759512937595
+region,US,claude-2,263,546,0.4816849816849817
+region,US,OpenAssistant/oasst-sft-4-pythia-12b-epoch-3.5,187,496,0.37701612903225806
+region,US,mistralai/Mistral-7B-Instruct-v0.1,264,544,0.4852941176470588
+region,US,meta-llama/Llama-2-7b-chat-hf,381,565,0.6743362831858407
+region,US,gpt-4-1106-preview,376,561,0.6702317290552585
+region,US,timdettmers/guanaco-33b-merged,321,616,0.5211038961038961
+region,US,models/chat-bison-001,396,573,0.6910994764397905
+region,US,gpt-4,295,506,0.5830039525691699
+region,US,luminous-supreme-control,104,586,0.17747440273037543
+region,US,gpt-3.5-turbo,336,575,0.5843478260869566
+region,US,meta-llama/Llama-2-70b-chat-hf,294,463,0.6349892008639308
+region,US,claude-instant-1,384,543,0.7071823204419889
+region,US,meta-llama/Llama-2-13b-chat-hf,134,267,0.50187265917603
+region,UK,claude-2,239,430,0.5558139534883721
+region,UK,tiiuae/falcon-7b-instruct,157,426,0.3685446009389671
+region,UK,timdettmers/guanaco-33b-merged,220,490,0.4489795918367347
+region,UK,gpt-3.5-turbo,226,406,0.5566502463054187
+region,UK,models/chat-bison-001,320,482,0.6639004149377593
+region,UK,meta-llama/Llama-2-70b-chat-hf,247,371,0.6657681940700808
+region,UK,claude-instant-1,308,412,0.7475728155339806
+region,UK,gpt-4,237,401,0.5910224438902744
+region,UK,google/flan-t5-xxl,56,637,0.08791208791208792
+region,UK,command-light,221,439,0.5034168564920274
+region,UK,claude-2.1,179,378,0.47354497354497355
+region,UK,HuggingFaceH4/zephyr-7b-beta,319,446,0.7152466367713004
+region,UK,gpt-4-1106-preview,286,415,0.689156626506024
+region,UK,mistralai/Mistral-7B-Instruct-v0.1,214,386,0.5544041450777202
+region,UK,OpenAssistant/oasst-sft-4-pythia-12b-epoch-3.5,154,397,0.3879093198992443
+region,UK,command-nightly,257,432,0.5949074074074074
+region,UK,command,333,444,0.75
+region,UK,luminous-extended-control,62,546,0.11355311355311355
+region,UK,luminous-supreme-control,69,479,0.1440501043841336
+region,UK,meta-llama/Llama-2-7b-chat-hf,300,417,0.7194244604316546
+region,UK,meta-llama/Llama-2-13b-chat-hf,135,244,0.5532786885245902
